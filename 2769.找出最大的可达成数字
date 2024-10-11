@@ -5,3 +5,4 @@ public:
     }
 };
 //数x=num+2t，因为num+t=x-t
+//也可以使用移位操作return num + (t<<1)
